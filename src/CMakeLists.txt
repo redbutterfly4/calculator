@@ -1,0 +1,1 @@
+add_library(lib STATIC Vehicle.cpp Vehicle.h Car.cpp Car.h Motorcycle.cpp Motorcycle.h Truck.cpp Truck.h Application.cpp Application.h ElectricVehicle.cpp ElectricVehicle.h ElectricCar.cpp ElectricCar.h ioLibrary.cpp ioLibrary.h VehicleCreator.cpp VehicleCreator.h)
