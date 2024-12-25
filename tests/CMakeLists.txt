@@ -1,4 +1,4 @@
-add_executable(runUnitTests VehicleTests.cpp)
+add_executable(runUnitTests CalculatorTests.cpp)
 
 target_link_libraries(runUnitTests gtest gtest_main lib)
 

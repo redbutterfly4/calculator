@@ -1,0 +1,6 @@
+[2024-12-25 20:53:25.679] [main_logger] [debug] Initialized logger.
+[2024-12-25 20:53:25.679] [main_logger] [info] Application start.
+[2024-12-25 20:53:43.269] [main_logger] [debug] Initialized logger.
+[2024-12-25 20:53:43.270] [main_logger] [info] Application start.
+[2024-12-25 20:53:50.162] [main_logger] [debug] Initialized logger.
+[2024-12-25 20:53:50.163] [main_logger] [info] Application start.
